@@ -1,6 +1,6 @@
 #### Hello, I'm Sienna 👋
 
-A software engineer who is passionate about creating technology with a meaningful impact on people. 
+A software engineer who is passionate about making a meaningful impact through creating technology.
 
 I'm currently working as a software engineer intern at PTC working on [Onshape](https://www.ptc.com/en/products/onshape) in the 3D Render Studio team.
 I graduated from Monash University with a Bachelor of Software Engineering (Honours) in 2023.
